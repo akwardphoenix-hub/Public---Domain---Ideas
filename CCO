@@ -56,6 +56,47 @@ I, Christopher Martin, dedicate all content in this document to the public domai
 * Literalizing all metaphors could improve clarity but may reduce poetic, cultural, and emotional value.
 * Observation of phenomena interacts differently with physics vs. psychology — perception can distort reality even when physical laws remain unchanged.
 
+# Natural-Material 3D-Printing Drone
+
+**License:** CC0 1.0 Universal (Public Domain)
+
+This project is released under CC0. You are free to copy, modify, and use it for any purpose without restriction.
+
 ---
+
+## Overview
+This is a drone design emphasizing natural and biodegradable materials. It uses bamboo, balsa wood, cork, and natural-fiber 3D printing components, combined with open-source electronics and flight software.  
+
+---
+
+## 1. Frame & Materials
+- **Primary structure:** Bamboo rods, balsa wood, cork sheets.
+- **Joints:** Biodegradable resin, hemp-based adhesives, wood glue.
+- **3D-printed components:** PLA mixed with wood fiber or recycled natural fibers.
+- **Optional flexibility:** Thin rattan strips or flax for vibration damping.
+
+**Tip:** Design modular pieces for easy replacement and testing.
+
+---
+
+## 2. Electronics
+- **Flight controller:** Open-source (Betaflight, Ardupilot, Pixhawk)
+- **Motors:** Brushless DC motors (size according to drone weight)
+- **ESCs:** One per motor (10–20A depending on motor)
+- **Battery:** LiPo (3S or 4S)
+- **Optional sensors:** Gyroscope, accelerometer, GPS module
+
+---
+
+## 3. Propulsion
+- **Propellers:** Biodegradable PLA or bamboo composite
+- **Mounting:** Vibration-damping mounts (cork or hemp washers recommended)
+
+---
+
+## 4. Control System
+- **Transmitter & Receiver:** 2.4 GHz RC controller
+- **Flight modes:** Manual, stabilized (auto-level), autonomous (GPS waypoints)
+
 
 End of Compilation
