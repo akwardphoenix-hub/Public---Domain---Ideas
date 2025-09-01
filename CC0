@@ -998,7 +998,56 @@ This work is published from: [Your Country].
 
 
 ---
+# MAG-SOL — CC0 Open Concept
 
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+**License:** CC0 1.0 Universal (Public Domain)  
+**Date:** 2025-09-01  
+
+---
+
+## 🌍 About
+**MAG-SOL** (Magnetic Solar Integrated System) is a conceptual design for a sustainable craft platform that blends:
+
+- Safe **LiFePO₄ batteries**  
+- **Supercapacitor burst buffer** for power spikes  
+- **MAG-SOL solar skin panels** for renewable top-off  
+- **Liquid-metal trim ring** (Galinstan, *no mercury*) for stability, cooling, and efficient control  
+- Modular propulsion options: **VTOL quad/hex**, **ground rover**, or **linear mag-skate**  
+
+Inspired by ancient Vimāna stories and UFO lore — grounded in real physics and aimed at **planet-friendly innovation**.
+
+---
+
+## ⚠️ Disclaimer
+This is **conceptual documentation only**, not a build-ready product.  
+
+- High-energy systems (batteries, supercaps, motors) can be hazardous.  
+- The author(s) accept **no responsibility** for use or misuse.  
+- By reading/using this material, you accept full responsibility for your actions.  
+
+---
+
+## ✨ Why CC0?
+- To place this idea in the **commons**.  
+- To encourage **open research and sustainability**.  
+- To prevent proprietary lock-in or secrecy.  
+
+---
+
+## 🔑 Physics Snapshot
+- 48 V LiFePO₄ pack (~1 kWh) + supercaps = safe, efficient energy stack.  
+- Solar skin (0.25–0.5 m²) = ~50–100 W peak harvest at noon.  
+- Ground rover (12 kg @ 8 m/s): ~100 W cruise; ~150 km per kWh ideal.  
+- Quad (4 kg): ~1,000 W hover; ~25–40 min realistic endurance.  
+- Linear mag-skate (100 cm² pad, 0.8 T, 2 mm gap): ~20 N thrust.  
+- CoM shift (0.5 kg slug @ 0.2 m radius): ~20 mm shift, ~1 N·m torque assist.  
+
+---
+
+*Released freely into the public domain under CC0.  
+Use, remix, or ignore — may it spark ideas that benefit the planet.*
 Summary
 
 This design is fully open source, remixable, and free for anyone to use, adapt, or build upon.
