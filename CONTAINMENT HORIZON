@@ -1,0 +1,9 @@
+GHOST_EPSILON (ε): the entire allowed uncertainty budget for a system.
+Norm: Trust score T = 1 − ε, where 0 < ε << 1 and ε is *human-factors only*
+(not logic gaps). Logic paths must be fully specified or blocked.
+
+Defaults:
+- Gameplay & non-safety UX: ε = 1e-9  →  T = 0.999999999
+- Life-sciences / clinical / biosafety nodes: ε = 1e-12 → T = 0.999999999999
+- Disclosure: ε must be declared, logged, and independently audited.
+- Any observed logic-gap > 0 triggers No-Mercy Containment until fixed.
