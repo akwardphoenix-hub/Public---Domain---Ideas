@@ -3,3 +3,15 @@
   LICENSE
   README.md
   handoff-packet.pdf
+Purpose: Controlled, regulated partial cellular rejuvenation; never DIY.
+Allow: Only inside approved clinical protocols with consent, pause, rollback.
+Block: Any unregulated OSKM use; auto-contain & escalate.
+Privacy: All runs hashed, consented, and independently auditable.
+ε-Ghost: clinical ε = 1e-12; any logic gap => halt + review.
+Bee Law: measured externality => 3× restitution via council adjudication.
+Intuition Overlay: subtle, reversible cues; never auto-acts; logs rationale hints.
+Conclusion Engine: explainable, evidence-based decisions; can act; must justify.
+Shadow Flag: “Jumped-to-conclusion” heuristics detected => require human check.
+Trigger: unconsented biology, logic gap > 0, or off-policy model behavior.
+Actions: Freeze pipeline; preserve state; notify red/blue teams + participant; 
+publish incident meta (privacy-preserving); remediation required before resume.
