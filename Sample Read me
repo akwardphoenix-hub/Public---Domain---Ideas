@@ -1,0 +1,11 @@
+# Vimana — Civic Game & Masternode Model
+
+This repository contains the Vimana design documents, governance appendices, and artifact specs.
+All content in this repo is released under CC0 (Public Domain). Use, remix, and build freely.
+
+Key docs:
+- appendix_brave_codex.md — Moral & governance charter (permanent appendix)
+- artifact_nodes/excalibur.md — Excalibur node: design & activation spec
+- COUNCIL_PACKET.md — Expert handoff checklist
+
+CC0 declaration: This project is released under CC0 1.0 Universal. See LICENSE for full text.
