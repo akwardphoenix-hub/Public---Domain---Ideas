@@ -1,0 +1,62 @@
+# Create Brave Codex Appendix file (markdown) and a TXT copy for download.
+content = """# BRAVE CODEX — Permanent Appendix
+**Compiled from: full conversation window & model logic**  
+**Status:** Draft for council review. Released under CC0 public domain by author.
+
+## Purpose
+Compact appendix capturing ethos, rules, and implementation notes for the "Brave" node in the model. Intended as living document for council review and cascade updates.
+
+## Core Principles
+1. Bravery as Service — action to protect and restore.
+2. Intuition First — emergency overlay; prompts action but requires corroboration.
+3. Fix-It-First — stabilize and repair before punitive escalation.
+4. Transparent Accountability — audit trails, human-only residual.
+5. Proportional Response — restorative-first penalties; scale to harm.
+6. Cultural Respect — consult stewards for cultural/religious impact.
+7. Safeguards for Vulnerable Actors — accessibility-first inputs.
+8. Trial & Remediation Pathways — low-friction remedies and appeals.
+9. Council Review — consensus for high-impact rulings.
+10. Open Stewardship — public domain; version-controlled changes.
+
+## Operational Rules (Summary)
+- Activation: community vote, intuition+harm flag, or automated critical safety triggers.
+- Cost & Restoration Model: fees fund public-good pools; restorative alternatives exist.
+- Three-Strike Theft Rule (Bee Law): mandated restoration ×3, community remediation; accidents follow remediation-first.
+- Pause & Limbo: full-state pause, agreed pauses, misuse triggers restorative penalties.
+- No Mercy Clause: emergency authority for stabilization; multi-factor triggers; mandatory review.
+- Intuition & Reaction: intuition aids split-second choices; never sole basis for sanctions.
+
+## Implementation Notes — Cascade & Integration
+1. Language Clean Pass: replace harmful slurs with neutral terms (e.g., “oddly inspiring”); apply across all nodes before public release.
+2. Cascading Update Protocol: draft → diff → council review → vote → cryptographic stamp → cascade.
+3. Accessibility & Input Modes: voice, assistive peripherals, extended timing options.
+4. Data & Privacy: consent-first, tamper-evident logs, opt-in camera/audio for pause validation.
+5. Council Approval Tiers: metadata indicating required approval (Local / Regional / Federal / Cosmic).
+6. Simulation & Red Teaming: mandatory red-team and shadow-stress tests pre-launch.
+7. Cultural Node Integration: defer to culture-specific nodes for sacred contexts; translation included.
+
+## Handoff Checklist (Minimal)
+- This Brave Codex (this file)
+- Diff log for language replacements
+- Cascade map of dependent docs/UI
+- Red-team report template
+- Bee law appendix and remediation templates
+- Intuition & pause UX spec
+
+## Governance & Ethics Note
+Requires legal review and human review gating for irreversible real-world impact actions.
+
+## Version & Licensing
+- Version: 0.1 Council Draft
+- License: CC0 (public domain)
+
+"""
+
+md_path = "/mnt/data/Brave_Codex_Appendix.md"
+txt_path = "/mnt/data/Brave_Codex_Appendix.txt"
+with open(md_path, "w", encoding="utf-8") as f:
+    f.write(content)
+with open(txt_path, "w", encoding="utf-8") as f:
+    f.write(content)
+
+md_path, txt_path
