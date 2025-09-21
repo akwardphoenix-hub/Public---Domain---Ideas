@@ -144,3 +144,34 @@ This project and all attached deliverables are intended to be dedicated to the p
 This is a living document and intentionally leaves multiple guardrails and Council items to be reviewed by experts (security engineers, ethicists, legal counsel, cultural liaisons, agricultural scientists for bee law, and energy researchers for harmonics). The seed is public domain — build, remix, and improve.
 
 **Stamp:** FINAL EXPORT — VIMANA — CC0
+# VIMANA — Public Domain Seed (CC0)
+*An experimental, open-source, public-domain framework for an inclusion-first civic / game / masternode ecosystem.*
+
+**License:** CC0 — public domain (copy of DECLARATION included in /LICENSE)
+
+## Summary
+This repo contains the living design for "Vimana": a layered game + civic masternode model with the core principles:
+- **Fix-it-first**: security & safety are built before cosmetic/gameplay layering.
+- **Personal masternodes**: each citizen/player is their own RNG/security node.
+- **Harmony & resonance**: time/astral anchors (North Star time, Sun/Moon/pyramids) integrated into UX.
+- **Civic-economic tie-in**: transparent incentives for public goods; modular political engagement channels.
+- **Open culture**: CC0 — use, remix, steward.
+
+## Contents
+- /design — core logic decks, gameplay loops, node glossary
+- /codex — permanent appendices (Bee Law, No-Mercy Clause, Shadow Protocol)
+- /tech — API draft (LNA), minimal mirror test, security adapters
+- /art — harmony posters and visual assets (public-domain)
+- /legal — sample handoff packet, CC0 license copy, recommended counsel contacts
+- /appendix — curated ideas: Orthrus trials, Demi-Loki mode, Tree-People mechanics
+
+## Quick start for engineers
+1. Review `/tech/LNA-minimal.md` for the minimal API and mirror test.
+2. Deploy `testnet` node using the included docker-compose in `/tech/deploy/`.
+3. Run the first mirror test (see `/tech/mirror-test.md`).
+
+## Handoff & governance
+- This repo is a living document. Any large changes that affect governance must be routed via the Council Packet procedure in `/codex/council-procedure.md`.
+
+## Contact / steward notes
+- The author has released this under CC0. Use and iterate — please credit if useful, but no obligation.
