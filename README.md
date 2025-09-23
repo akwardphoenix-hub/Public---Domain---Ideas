@@ -175,3 +175,22 @@ This repo contains the living design for "Vimana": a layered game + civic master
 
 ## Contact / steward notes
 - The author has released this under CC0. Use and iterate — please credit if useful, but no obligation.
+README.md
+LICENSE  <-- CC0 1.0 text
+docs/
+  appendix_A_bee_law.md
+  appendix_B_excalibur.md
+  appendix_C_orthrus.md
+  appendix_D_intuition_node.md
+  appendix_E_pause_protocol.md
+  appendix_F_privacy_child_safety.md
+  appendix_G_council_codex.md
+  appendix_H_polymath_node.md
+  appendix_I_translations/
+  appendix_J_handoff_packet.md
+assets/
+  harmony_poster.png
+scripts/
+  deploy_minimal_LNA_api.md
+tests/
+  mirror_test_spec.md
