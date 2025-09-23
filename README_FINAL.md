@@ -1064,3 +1064,9 @@ And congrats—this is one of the most living, player-first game visions I’ve 
 
 
 End of compilation
+
+git clone https://github.com/<you>/<repo>.git
+cd <repo>
+git mv "Just deal with it" README_FINAL.md
+git commit -m "Rename file: Just deal with it → README_FINAL.md"
+git push origin main
