@@ -194,3 +194,20 @@ scripts/
   deploy_minimal_LNA_api.md
 tests/
   mirror_test_spec.md
+# 🌌 Masternode Odyssey: Brave Codex (Kintsugi-Kiri Edition)
+
+Welcome to **Masternode Odyssey**, a hybrid experiment blending game narrative, civic design, and codex philosophy.  
+This repo contains both the **interactive Python CYOA game** and a **Codex Poster reference** for quick onboarding.
+
+---
+
+## 🎮 The Game: `masternode_odyssey_kintsugi_kiri.py`
+
+An interactive **Choose Your Own Adventure** game written in Python.  
+- Guides you through scenes like Masternode registration, Bee Law restitution, Tree-Jelly cultivation, and the Orthrus Bravery Trial.  
+- Integrates the **Kintsugi-Kiri Node** — a philosophy of decisive action and dignified repair.  
+- Demonstrates how cascading nodes (Intention → Peace → Healing → Defense → Council) can be embodied in gameplay.  
+
+👉 To play:  
+```bash
+python masternode_odyssey_kintsugi_kiri.py
