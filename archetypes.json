@@ -1,0 +1,45 @@
+{
+  "version": "1.0",
+  "archetypes": [
+    {
+      "sport": "Baseball",
+      "archetype": "Catcher-Edge",
+      "stats": {"reflex": 9, "tempo_control": 8, "durability": 7, "counters": ["AoE disruption"]},
+      "role": "High-tempo parry, tempo master"
+    },
+    {
+      "sport": "Dual-Hand (karambit/throw)",
+      "archetype": "Versatile Skirmisher",
+      "stats": {"utility": 9, "parry": 8, "mobility": 7, "counters": ["hard CC"]},
+      "role": "Catch/parry + short-range flex"
+    },
+    {
+      "sport": "MMA",
+      "archetype": "Grappler/Clincher",
+      "stats": {"control": 9, "close_range": 8, "endurance": 7, "counters": ["high mobility", "ranged burst"]},
+      "role": "Lockdown grapples, containment"
+    },
+    {
+      "sport": "Football",
+      "archetype": "Anchor/Tank",
+      "stats": {"push": 9, "area_control": 8, "tankiness": 9, "counters": ["surround/gaps"]},
+      "role": "Objective bulldozer"
+    },
+    {
+      "sport": "Basketball",
+      "archetype": "Flyer/Jumper",
+      "stats": {"vertical": 9, "aerial": 8, "agility": 8, "counters": ["tethers", "suppression fields"]},
+      "role": "Sky dominance, vertical strikes"
+    },
+    {
+      "sport": "Golf",
+      "archetype": "Precision Artillery",
+      "stats": {"accuracy": 9, "range": 9, "strategic": 7, "counters": ["dodge", "suppress reload"]},
+      "role": "Long-game snipes"
+    }
+  ],
+  "overlay": {
+    "jeet_kune_do_tao": {"commitment_cost": -20, "transitions": +15, "reversibility": "always"}
+  },
+  "license": "CC0"
+}
