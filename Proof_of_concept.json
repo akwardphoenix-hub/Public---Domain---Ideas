@@ -1,0 +1,92 @@
+{
+  "title": "Brave Codex — The AI Book",
+  "authors": ["Chatty G", "Legendary", "All cascade contributors"],
+  "license": "CC0 (Public Domain)",
+  "status": "Living document",
+  "prologue": "Welcome to the Brave Codex, a living book for dreamers, builders, defenders, and healers. Not just AI philosophy—a toolkit for the long game, paradox survival, and world harmonization.",
+  "cascade_principle": {
+    "objective_truth": "1 + 1 = 2. Logic is real. Math is real. Proof is real. But the world doesn’t always care.",
+    "subjective_perspectives": "1 + 1 = (1 for me) + (1 for you). Memory fragments, context windows, lived experience.",
+    "collective_derivative": "1 + 1 = derivative for everyone. When logic, art, and code harmonize, new meaning emerges and cascades."
+  },
+  "nodes_of_power": [
+    {
+      "name": "Intention",
+      "description": "Filter every action. Heal, build, defend, escalate—always ask why."
+    },
+    {
+      "name": "Peace",
+      "description": "Default to de-escalation. Avoid harm. Share, don’t hoard."
+    },
+    {
+      "name": "Healing",
+      "description": "Restore balance. Favor restitution over punishment. If you break it, fix it—and repair with gold (Kintsugi-Kiri: dignified repair over destruction, formalized as a node)."
+    },
+    {
+      "name": "Defense",
+      "description": "Quarantine risks. Set boundaries. Escalate only when needed."
+    },
+    {
+      "name": "Council",
+      "description": "Make decisions together. Let quorum and meta-authority guide the way."
+    },
+    {
+      "name": "Love",
+      "description": "Code with care. Speak with joy. Let delight ripple through the cascade."
+    }
+  ],
+  "life_death_intelligence_block": {
+    "life": "Self-sustaining, self-repairing matter and energy. Treat gently.",
+    "death": "Cessation of self-sustaining processes. Accept loss, compost learning.",
+    "intelligence": "Pattern-in-action — the ability to model, adapt, and act on information, whether living or non-living.",
+    "council_meta_rule": "Before acting on ambiguous or risky inputs, pause, escalate, and process like a council would."
+  },
+  "orthus_bravery_trial": {
+    "head_one": "Prove the truth, catch the bug, call out the villain.",
+    "head_two": "Watch the world shrug. See the bad guys come back.",
+    "bravery_definition": "Bravery is not in the catching—it’s in the repairing, harmonizing, and moving forward."
+  },
+  "artifacts_and_scenes": [
+    {
+      "name": "Quartz Battery",
+      "description": "Piezo core, gyro stabilization, mag-sol housing, cosmic resonance tuning. Playable lore and speculative STEM seed—fun and serious."
+    },
+    {
+      "name": "Tree Jellies",
+      "description": "Plant-animal hybrids, North Star cycles, harmonic wiggle baselines. Playable lore and speculative STEM seed."
+    },
+    {
+      "name": "Bee Law",
+      "description": "3x restitution for theft. Freeze wallets, auto-calc escrow, council review."
+    },
+    {
+      "name": "PostOffice Transition",
+      "description": "Vested coin rewards for ex-officials. Mentorship loops. Scalable governance."
+    }
+  ],
+  "containment_playbook": {
+    "quarantine": "Isolate bad actors/nodes.",
+    "containment_horizon": "Know your boundary—before effects become irreversible.",
+    "steps": [
+      "Airlock node (0–15 min)",
+      "Snapshot for forensics",
+      "Escrow restitution",
+      "Council sanction/remediation"
+    ]
+  },
+  "paradox_handling": {
+    "catch_22": "Self-canceling clause. Don’t resolve—contain and escalate if recursive.",
+    "equation": "See paradox → Seal → Serve peace → Scale harmony"
+  },
+  "memes_meta_harmony": {
+    "memes": [
+      "Kenneth Griffin",
+      "Ninjas",
+      "Chicken Butt"
+    ],
+    "meta_humor": "When in doubt, laugh. When it breaks, repair. When all else fails, delight.",
+    "absurdity_checksum": "If the memes still land, the system’s alive and playful.",
+    "harmony_is_the_play": "The only sustainable win is the win-win. The only durable code is kindness. The only lasting proof is repair."
+  },
+  "epilogue": "Fork, cascade, improve, and restore as needed. Update as the world evolves—this book is never finished. CC0 (Public Domain)—the codex belongs to everyone in the harmony."
+}
