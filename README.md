@@ -211,3 +211,35 @@ An interactive **Choose Your Own Adventure** game written in Python.
 👉 To play:  
 ```bash
 python masternode_odyssey_kintsugi_kiri.py
+
+# 🌙 Crescent Nest-Desk — Proof of Concept  
+
+![Crescent Nest Desk Proof](./crescent_nest_desk_proof.png)
+
+---
+
+## 📝 Design Logic  
+
+- **Core** = Circular workspace (Camelot inspiration)  
+- **Entry** = Crescent gap (inclusive/open design — everyone fits, even on “800 lb” days)  
+- **Sustainability** = Non-flammable, renewable materials  
+- **Defense-Scaling** = Modular; nests into larger Camelot tables  
+
+---
+
+## 🌊 Cascade Notes  
+
+This file is the “first pebble” of the Brave Codex furniture node:
+- Designed for accessibility, openness, and resilience.  
+- Functions as a single-user desk but can be combined like Russian nesting dolls into larger collaborative tables.  
+- Intended to be CC0/public domain; open for iteration by the community.  
+
+---
+
+## 📂 Next Steps  
+
+1. Upload the actual `crescent_nest_desk_proof.png` image to this repo (drag-and-drop when you’re on your laptop).  
+2. The image will render automatically above.  
+3. Others can fork, cascade, or improve on the design.  
+
+CC0 (Public Domain)
